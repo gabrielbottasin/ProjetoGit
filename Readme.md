@@ -1,2 +1,3 @@
-Projeto para primeira utilização do git 
+Projeto para primeira utilização do git; 
+
 segundo commit
